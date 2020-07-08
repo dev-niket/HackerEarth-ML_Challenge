@@ -12,3 +12,8 @@ https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-
 
 The leaderboard can be accessed from the following link:
 https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-employee-attrition-rate/leaderboard/
+
+
+I would highly recommend you to solve the challenges and evaluate yourself using the following link:
+
+https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-employee-attrition-rate/?utm_source=challenges-modern&utm_campaign=participated-challenges&utm_medium=right-panel
