@@ -1,6 +1,6 @@
 # HackerEarth-ML_Challenge
 
-Author: Niket Ganatra (GitHub: github.com/dev-niket )
+Author: Niket Ganatra (GitHub: https://github.com/dev-niket )
 
 This repository contains my solutions to the problems of the HackerEarth ML Challenge which was held during June-July, 2020. I got a rank of 166 out of 5164 participants (worldwide) in the Machine Learning challenge on HackerEarth.
 
