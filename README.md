@@ -2,7 +2,7 @@
 
 Author: Niket Ganatra (GitHub: https://github.com/dev-niket )
 
-This repository contains my solutions to the problems of the HackerEarth ML Challenge which was held during June-July, 2020. I got a rank of 166 out of 5164 participants (worldwide) in the Machine Learning challenge on HackerEarth.
+This repository contains my solutions to the problems of the HackerEarth ML Challenge which was held during June, 2020. I got a rank of 166 out of 5164 participants (worldwide) in the Machine Learning challenge on HackerEarth.
 
 The challenge had 2 tasks, 2nd of which was to create a slightly detailed SQL query (not that difficult of a task). 30 points were allotted for this.
 
